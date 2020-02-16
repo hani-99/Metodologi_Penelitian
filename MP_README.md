@@ -15,7 +15,8 @@ Repositori ini digunakan selama kuliah Metode Penelitian, semua materi disusun d
 ## Setting Project degan R Studio
 Setelah Anda menginstal sistem Kontrol Versi yang Anda sukai (Git atau Subversion), Anda harus mengaktifkannya di sistem Anda dengan mengikuti langkah-langkah ini:
 
-* Klik Global Options (Tools menu Rstudio)
+* Klik Tools
+* Klik Global Options 
 * Klik Git/SVN
 * Klik Enable version control interface for RStudio projects
 * Jika perlu, masukkan jalur untuk eksekusi Git atau SVN Anda jika tersedia. Anda juga dapat membuat atau menambahkan kunci RSA Anda untuk SSH jika perlu.
